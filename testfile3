@@ -1,0 +1,7 @@
+git commands---
+git add .
+git status
+git commit -m "commitname"
+git log --oneline
+git log
+git push -u origin main
